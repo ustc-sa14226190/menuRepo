@@ -19,6 +19,10 @@
  *
  */
 
+Compilation:
+    Use "gcc linktable.h linktable.c menu.h menu.c testIMenu.c -o menu.o" to get a executation file
+    Use ./menu.o to execute the program
+
 MenuProgram:
     
     1) enter "help" to show all the command 
